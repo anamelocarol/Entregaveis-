@@ -7,7 +7,9 @@ Curso: Ciência da Computação
 Disciplina: Algoritmos e Estrutura de Dados
 
 ✨ Sobre o Repositório
-Este repositório contém 5 exercícios que exploram o uso eficiente de Estruturas de Prioridade (Heaps) em Java. Cada exercício utiliza a classe PriorityQueue em contextos diferentes, visando a resolução de problemas clássicos de forma otimizada.
+Este repositório contém 5 exercícios que exploram o uso eficiente de Estruturas de Prioridade (Heaps) em Java. Cada exercício utiliza a classe PriorityQueue em diferentes contextos, visando a resolução de problemas clássicos de forma otimizada.
+
+💻 Observação: Todos os códigos dos exercícios estão disponíveis dentro do repositório, em problemas.
 
 🎯 Objetivos
 
